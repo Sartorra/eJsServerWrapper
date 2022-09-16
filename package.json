@@ -1,0 +1,23 @@
+{
+  "name": "serverwrapper",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sartorra/eJsServerWrapper.git"
+  },
+  "author": "Braedan Cwilewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sartorra/eJsServerWrapper/issues"
+  },
+  "homepage": "https://github.com/Sartorra/eJsServerWrapper#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
